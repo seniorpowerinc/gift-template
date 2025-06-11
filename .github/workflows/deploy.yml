@@ -9,8 +9,6 @@ on:
     paths:
       - 'data.json'
       - 'index.html'
-      - 'admin/index.html'
-      - 'pdfs/**'
   workflow_dispatch:
 
 permissions:
